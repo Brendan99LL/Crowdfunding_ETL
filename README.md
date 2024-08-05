@@ -30,9 +30,11 @@ The purpose of this is to be able to organize the data and to be able to provide
 This is to assist the reader in gaining understanding that many companies may fall within the same category but, can differ do to pertaining to different subcategories that help it to discern itself from others.
 </p>
 <p align = "center">
-    <img src="./Starter_Files/Images/Select_From_Category.png" alt = "Category Dataframe" width = "500" >
+    <img src="./Starter_Files/Images/Select_From_Category.png" alt = "Category Dataframe" width = "350" >
 </p>
-
+<p align = "center">
+    <img src="./Starter_Files/Images/Select_From_Subcategory.png" alt = "Category Dataframe" width = "350" >
+</p>
 
 ## Campaign DataFrame
 <p>
@@ -40,6 +42,9 @@ This data frame was established to better discern all the information pertaining
 </p>
 <p>
 Overall, this is to note all the important details of each company that took part in the Crowdfunding such as the company names, descriptions, overall financial funding(goal/pledge/outcome), the countries, the currency, as well the dates that it was launched and the end date of the Crowdfunding.
+</p>
+<p align = "center">
+    <img src="./Starter_Files/Images/Select_From_Campaign.png" alt = "Category Dataframe" width = "650" >
 </p>
 
 ## Contacts DataFrame
@@ -49,6 +54,9 @@ This is established to organize the data to assist the viewer in discerning the 
 <p>
 This can be utilized to be able to reach out to the individual as a thank you and possibly to confirm the identity of a person and know if it is fraudulent.
 </p>
+<p align = "center">
+    <img src="./Starter_Files/Images/Select_From_Contacts.png" alt = "Category Dataframe" width = "400" >
+</p>
 
 ## Crowdfunding Database (SQL/PostgresSQL)
 <p>
@@ -57,8 +65,14 @@ This was established to provide an overview of the information obtained in an or
 <p>
 This displays a visual aid to provide connections that are consistent with the data such as the contact information, the category and subcategory that can be found within the campaign data frame. 
 </p>
+<p align = "center">
+    <img src="./Starter_Files/Images/Crowdfunding_ETL_PostgresSQL.png" alt = "Category Dataframe" width = "500" >
+</p>
+<p align = "center">
+    <img src="./Starter_Files/Images/Crowdfunding_ETL_QuickDBD.png" alt = "Category Dataframe" width = "500" >
+</p>
 
-# ABSTRACT 
+# Abstract
 ## What is Crowdfunding and the purpose of this? 
 <p>
 That is a great question to ask and something that may assist you in your business endeavors in the future.
