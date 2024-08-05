@@ -1,7 +1,10 @@
 # Crowdfunding_ETL
 Columbia University Bootcamp Project 2
 Crowdfunding ETL
-  The Crowdfunding file illustrates the data obtained from various companies that have taken part in crowdfunding, there are those that have been able to succeed and those that were not able to obtain funding successfully. The code presented illustrates the different data frames to better discern the various subjects of information to be able to know if it is beneficial for a company to attempt crowdfunding and or to identify the possible reasons that it was able to succeed and or if not fail in other cases.  
+
+<p>
+The Crowdfunding file illustrates the data obtained from various companies that have taken part in crowdfunding, there are those that have been able to succeed and those that were not able to obtain funding successfully. The code presented illustrates the different data frames to better discern the various subjects of information to be able to know if it is beneficial for a company to attempt crowdfunding and or to identify the possible reasons that it was able to succeed and or if not fail in other cases.
+</p>
 The Crowdfunding database is taken into the Pandas library and exported to be able to organize the data, to then have it within the SQL and Postgres SQL to give a better visual representation of the connections within the Crowdfunding database and the data frames that were established. With the use of SQL, it is to display a generalized view of the relationships that are within the Crowdfunding file. Within the Postgres SQL, it illustrates an in-depth visualization of the stored data pertaining to Crowdfunding and process the connections that are there regarding the different pieces of data that are provided for the different companies. 
 
 Category and Subcategory Data Frames:
