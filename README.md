@@ -1,6 +1,5 @@
 # Crowdfunding_ETL
 Columbia University Bootcamp Project 2
-Crowdfunding ETL
 
 ## Crowdfunding
 <p>
